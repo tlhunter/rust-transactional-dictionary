@@ -1,5 +1,5 @@
 [package]
-name = "dictionary"
+name = "dict"
 version = "0.1.0"
 authors = ["Thomas Hunter II <me@thomashunter.name>"]
 edition = "2018"
